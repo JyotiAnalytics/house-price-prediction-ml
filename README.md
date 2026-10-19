@@ -110,6 +110,6 @@ _Add 3 to 4 findings from your own run, for example:_
 
 ## 👤 Author
 
-**Jyoti Ranjan Bhanja** · www.linkedin.com/in/jyotiranjanbhanja-ds(#) · https://github.com/JyotiAnalytics(#) · jyotianalytic2001@gmail.com(#)
+**Jyoti Ranjan Bhanja** · [www.linkedin.com/in/jyotiranjanbhanja-ds](#) · [https://github.com/JyotiAnalytics](#) · [jyotianalytic2001@gmail.com](#)
 
 Open to Data Analyst / Data Scientist / ML roles.
