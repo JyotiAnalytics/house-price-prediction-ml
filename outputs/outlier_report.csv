@@ -1,0 +1,8 @@
+Column,Lower_Bound,Upper_Bound,Outlier_Count
+id,-998.5,2999.5,0
+area,-1698.75,7239.25,0
+bedrooms,-1.0,7.0,0
+bathrooms,-1.0,7.0,0
+floors,-2.0,6.0,0
+yearbuilt,1835.5,2087.5,0
+price,-419884.0,1500068.0,0

@@ -1,0 +1,11 @@
+id,area,bedrooms,bathrooms,floors,yearbuilt,location,condition,garage,price
+1168,4260,2,2,1,1907,Rural,Fair,Yes,50005
+837,2871,4,2,1,1914,Suburban,Poor,No,50064
+1729,509,4,1,2,1993,Urban,Fair,No,51082
+1593,4368,5,4,2,1976,Downtown,Fair,No,51845
+1464,4138,3,4,1,1960,Urban,Fair,No,52024
+863,1327,3,2,2,1908,Urban,Fair,Yes,52631
+1323,3006,1,4,3,1946,Downtown,Poor,No,53052
+133,4248,4,4,2,2013,Rural,Excellent,No,53212
+1083,3615,5,2,2,1982,Downtown,Poor,No,53515
+1674,511,2,3,3,2015,Suburban,Poor,No,53657

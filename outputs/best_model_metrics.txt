@@ -1,0 +1,44 @@
+
+HOUSE PRICE PREDICTION REPORT
+========================================
+
+Dataset Size: 2000
+
+Target Column: price
+
+Features:
+['area', 'bedrooms', 'bathrooms', 'floors', 'yearbuilt', 'location', 'condition', 'garage']
+
+Training Records: 1600
+
+Testing Records: 400
+
+Best Baseline Model:
+Linear Regression
+
+Best Cross-Validation Model:
+Linear Regression
+
+Tuned Random Forest Parameters:
+{'model__n_estimators': 200, 'model__min_samples_split': 10, 'model__min_samples_leaf': 1, 'model__max_features': 0.7, 'model__max_depth': 10}
+
+Tuned Random Forest CV RMSE:
+279,871.95
+
+Final Selected Model:
+Linear Regression
+
+Final Test MAE:
+243,241.98
+
+Final Test RMSE:
+279,859.73
+
+Final Test R2:
+-0.0067
+
+IMPORTANT:
+The project uses the actual CSV dataset.
+
+Predictions are estimates and do not guarantee
+real-world market accuracy.

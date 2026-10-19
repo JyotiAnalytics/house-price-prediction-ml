@@ -1,0 +1,9 @@
+Feature,Data_Type
+area,int64
+bedrooms,int64
+bathrooms,int64
+floors,int64
+yearbuilt,int64
+location,str
+condition,str
+garage,str

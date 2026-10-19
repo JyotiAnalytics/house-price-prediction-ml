@@ -1,0 +1,11 @@
+id,area,bedrooms,bathrooms,floors,yearbuilt,location,condition,garage,price
+1005,3099,1,2,3,1997,Suburban,Good,No,999656
+1788,566,4,1,1,1945,Urban,Fair,Yes,999453
+1007,736,3,2,3,1939,Downtown,Good,Yes,998128
+1553,2860,2,2,3,1910,Downtown,Fair,No,998084
+242,2985,4,3,3,1969,Urban,Poor,Yes,997719
+95,4340,1,1,3,1983,Urban,Poor,Yes,997226
+1728,3597,4,2,3,2012,Downtown,Fair,Yes,997176
+844,1293,4,4,3,1958,Urban,Poor,Yes,996931
+1864,572,1,1,3,1960,Suburban,Fair,Yes,996740
+21,2547,4,4,2,1935,Suburban,Good,Yes,996357
